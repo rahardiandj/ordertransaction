@@ -12,3 +12,7 @@ phases:
 artifacts:
   files:    
     - customer/target/customer-0.0.1-SNAPSHOT.jar
+    - coredomain/target/coredomain-0.0.1-SNAPSHOT.jar
+    - identitymanagement/target/identitymangement-0.0.1-SNAPSHOT.jar
+    - order/target/order-0.0.1-SNAPSHOT.jar
+    - product/target/product-0.0.1-SNAPSHOT.jar
