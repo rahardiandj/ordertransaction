@@ -9,7 +9,6 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn package
-      - ls -a customer/target/customer-0.0.1-SNAPSHOT.jar
-artifacs:
-  files:
+artifacts:
+  files:    
     - customer/target/customer-0.0.1-SNAPSHOT.jar
